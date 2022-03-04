@@ -1,1 +1,3 @@
-# Nepali-NLP-Projects
+# Nepali-NLP-Projects (WIP)
+
+Collection of NLP Projects.
